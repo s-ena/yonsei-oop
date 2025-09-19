@@ -1,3 +1,5 @@
+package W1;
+
 public class HW2 {
     public static void main(String[] args) {
         double dInM = 2 * Math.PI * 50;

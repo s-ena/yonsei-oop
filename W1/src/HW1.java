@@ -1,3 +1,5 @@
+package W1;
+
 public class HW1 {
     public static void main(String[] args) {
         System.out.println("상품명: 삼성 갤럭시 s24");
